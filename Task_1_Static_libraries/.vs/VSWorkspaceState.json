@@ -1,0 +1,16 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Локальный компьютер": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\StaticLibrariesClient",
+    "\\Task_1_Static_libraries",
+    "\\x64"
+  ],
+  "SelectedNode": "\\Task_1_Static_libraries\\CMakeLists.txt",
+  "PreviewInSolutionExplorer": false
+}

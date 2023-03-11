@@ -1,0 +1,7 @@
+﻿  DinamicClass.cpp
+C:\Users\Augusta\Desktop\ITVDN\C++\+Netology\BuildingAndConnectingLibraries\Task_2_Dinamic_libraries\Task_2_Dinamic_libraries\DinamicClass.cpp(5,23): warning C4273: DinamicSpace::Greeter::greet: несовместимое связывание dll
+C:\Users\Augusta\Desktop\ITVDN\C++\+Netology\BuildingAndConnectingLibraries\Task_2_Dinamic_libraries\Task_2_Dinamic_libraries\DinamicClass.h(11,40): message : см. предыдущее определение "greet"
+C:\Users\Augusta\Desktop\ITVDN\C++\+Netology\BuildingAndConnectingLibraries\Task_2_Dinamic_libraries\Task_2_Dinamic_libraries\DinamicClass.cpp(8,16): warning C4273: DinamicSpace::Greeter::EnterName: несовместимое связывание dll
+C:\Users\Augusta\Desktop\ITVDN\C++\+Netology\BuildingAndConnectingLibraries\Task_2_Dinamic_libraries\Task_2_Dinamic_libraries\DinamicClass.h(12,33): message : см. предыдущее определение "EnterName"
+     Создается библиотека C:\Users\Augusta\Desktop\ITVDN\C++\+Netology\BuildingAndConnectingLibraries\Task_2_Dinamic_libraries\x64\Debug\Task_2_Dinamic_libraries.lib и объект C:\Users\Augusta\Desktop\ITVDN\C++\+Netology\BuildingAndConnectingLibraries\Task_2_Dinamic_libraries\x64\Debug\Task_2_Dinamic_libraries.exp
+  Task_2_Dinamic_libraries.vcxproj -> C:\Users\Augusta\Desktop\ITVDN\C++\+Netology\BuildingAndConnectingLibraries\Task_2_Dinamic_libraries\x64\Debug\Task_2_Dinamic_libraries.dll

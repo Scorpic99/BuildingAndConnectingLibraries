@@ -1,0 +1,5 @@
+# ninja log v5
+2	2745	6977340418959735	CMakeFiles/StaticLibraryLib.dir/StaticClass.cpp.obj	dacc9bf902bff809
+48	2758	6977340419049754	CMakeFiles/StaticLibraryExe.dir/39e359b9899c49396b3fb80597268745/StaticLibrariesClient/StaticLibrariesClient.cpp.obj	60ce4923b61e309e
+2750	2951	6977340420870159	StaticLibraryLib.lib	1a2a3fcd40406d38
+2951	4346	6977340434059108	StaticLibraryExe.exe	3fefe4ee8566e807

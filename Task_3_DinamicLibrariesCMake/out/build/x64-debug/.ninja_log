@@ -1,0 +1,6 @@
+# ninja log v5
+15	1168	7000013512207384	CMakeFiles/CMakeDinamicExe.dir/DinamicLibrariesCMakeClients/DinamicLibrariesCMakeClients.cpp.obj	b312b53ef9809fe2
+3	1311	7000013513617718	CMakeFiles/CMakeDinamicLib.dir/DinamicLibrariesCMake/DinamicClass.cpp.obj	9a045f38933d42f3
+1312	2123	7000013521354533	CMakeDinamicLib.dll	257fbd3441f3fe09
+1312	2123	7000013521354533	CMakeDinamicLib.lib	257fbd3441f3fe09
+2124	2825	7000013528376109	CMakeDinamicExe.exe	b9ba8944ab020773

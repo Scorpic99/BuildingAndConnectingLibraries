@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "StaticClass",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "StaticLibraryExe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StaticLibraryExe-Debug-d15486f2858d473eb251.json",
+					"name" : "StaticLibraryExe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StaticLibraryLib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StaticLibraryLib-Debug-f20aba0b9c6f4c1ffbf7.json",
+					"name" : "StaticLibraryLib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/jast do it/C++/BuildingAndConnectingLibraries/Task_1_Static_libraries/Task_1_Static_libraries/out/build/x64-Debug",
+		"source" : "D:/jast do it/C++/BuildingAndConnectingLibraries/Task_1_Static_libraries/Task_1_Static_libraries"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
