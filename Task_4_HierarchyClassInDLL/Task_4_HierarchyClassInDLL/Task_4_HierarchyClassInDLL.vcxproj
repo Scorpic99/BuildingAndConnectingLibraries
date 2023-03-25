@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClInclude Include="EquilateralTriangle.h" />
     <ClInclude Include="IsoscelesTriangle.h" />
+    <ClInclude Include="Macros.h" />
     <ClInclude Include="Parallelogram.h" />
     <ClInclude Include="Quadrilateral.h" />
     <ClInclude Include="Rectangle.h" />
@@ -128,7 +129,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>_DEBUG;TASK4HIERARCHYCLASSINDLL_EXPORTS;_WINDOWS;_USRDLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_DEBUG;HIERARCHYCLASSINDLL_EXPORTS;_WINDOWS;_USRDLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>

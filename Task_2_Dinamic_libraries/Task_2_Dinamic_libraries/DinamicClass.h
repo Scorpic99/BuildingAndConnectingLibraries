@@ -1,5 +1,5 @@
 #pragma once
-#ifdef TASK2DINAMICLIBARIES_EXPORTS
+#ifdef TASK2DINAMICLIBRARIES_EXPORTS
 #define TASK2DINAMICLIBARIES_API __declspec(dllexport)
 #else
 #define TASK2DINAMICLIBARIES_API __declspec(dllimport)

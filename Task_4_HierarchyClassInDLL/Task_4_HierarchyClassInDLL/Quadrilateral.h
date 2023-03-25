@@ -1,11 +1,8 @@
 #pragma once
-#ifdef HIERARCHYCLASSINDLL_EXPORTS
-#define HIERARCHYCLASSINDLL_API __declspec(dllexport)
-#else
-#define HIERARCHYCLASSINDLL_API __declspec(dllimport)
-#endif
+
 
 #include <iostream>
+#include "Macros.h"
 #include "Shapes.h"
 
 class Quadrilateral : public Shapes {

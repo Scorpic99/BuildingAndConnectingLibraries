@@ -133,6 +133,9 @@
   <ItemGroup>
     <ClCompile Include="StaticClass.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="StaticClass.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
