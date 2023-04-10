@@ -1,7 +1,0 @@
-﻿  DinamicClass.cpp
-G:\jast do it\C++\BuildingAndConnectingLibraries\Task_3_DinamicLibrariesCMake\DinamicLibrariesCMake\DinamicClass.cpp(4,22): warning C4273: Greeter::greet: несовместимое связывание dll
-G:\jast do it\C++\BuildingAndConnectingLibraries\Task_3_DinamicLibrariesCMake\DinamicLibrariesCMake\DinamicClass.h(12,39): message : см. предыдущее определение "greet"
-G:\jast do it\C++\BuildingAndConnectingLibraries\Task_3_DinamicLibrariesCMake\DinamicLibrariesCMake\DinamicClass.cpp(7,15): warning C4273: Greeter::EnterName: несовместимое связывание dll
-G:\jast do it\C++\BuildingAndConnectingLibraries\Task_3_DinamicLibrariesCMake\DinamicLibrariesCMake\DinamicClass.h(13,32): message : см. предыдущее определение "EnterName"
-     Создается библиотека G:\jast do it\C++\BuildingAndConnectingLibraries\Task_3_DinamicLibrariesCMake\x64\Debug\DinamicLibrariesCMake.lib и объект G:\jast do it\C++\BuildingAndConnectingLibraries\Task_3_DinamicLibrariesCMake\x64\Debug\DinamicLibrariesCMake.exp
-  DinamicLibrariesCMake.vcxproj -> G:\jast do it\C++\BuildingAndConnectingLibraries\Task_3_DinamicLibrariesCMake\x64\Debug\DinamicLibrariesCMake.dll

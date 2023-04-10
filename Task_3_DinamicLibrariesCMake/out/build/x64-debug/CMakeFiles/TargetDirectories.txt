@@ -1,4 +1,0 @@
-G:/jast do it/C++/BuildingAndConnectingLibraries/Task_3_DinamicLibrariesCMake/out/build/x64-debug/CMakeFiles/CMakeDinamicLib.dir
-G:/jast do it/C++/BuildingAndConnectingLibraries/Task_3_DinamicLibrariesCMake/out/build/x64-debug/CMakeFiles/CMakeDinamicExe.dir
-G:/jast do it/C++/BuildingAndConnectingLibraries/Task_3_DinamicLibrariesCMake/out/build/x64-debug/CMakeFiles/edit_cache.dir
-G:/jast do it/C++/BuildingAndConnectingLibraries/Task_3_DinamicLibrariesCMake/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
